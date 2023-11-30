@@ -1,0 +1,15 @@
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\bin\Debug\net6.0\daily-aoc-solutions.exe
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\bin\Debug\net6.0\daily-aoc-solutions.deps.json
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\bin\Debug\net6.0\daily-aoc-solutions.runtimeconfig.json
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\bin\Debug\net6.0\daily-aoc-solutions.dll
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\bin\Debug\net6.0\daily-aoc-solutions.pdb
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\obj\Debug\net6.0\daily-aoc-solutions.csproj.AssemblyReference.cache
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\obj\Debug\net6.0\daily-aoc-solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\obj\Debug\net6.0\daily-aoc-solutions.AssemblyInfoInputs.cache
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\obj\Debug\net6.0\daily-aoc-solutions.AssemblyInfo.cs
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\obj\Debug\net6.0\daily-aoc-solutions.csproj.CoreCompileInputs.cache
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\obj\Debug\net6.0\daily-aoc-solutions.dll
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\obj\Debug\net6.0\refint\daily-aoc-solutions.dll
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\obj\Debug\net6.0\daily-aoc-solutions.pdb
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\obj\Debug\net6.0\daily-aoc-solutions.genruntimeconfig.cache
+C:\Users\a.nitijevskis\Documents\aoc2023\daily-aoc-solutions\obj\Debug\net6.0\ref\daily-aoc-solutions.dll
